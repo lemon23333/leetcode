@@ -20,3 +20,4 @@ The length of input array is a positive integer and will not exceed 10,000
 code1：比较是自己写的方法，代码量大，但运行时间短
 ---
 code2：比较时用的max（）方法，代码简洁，但运行时间稍长
+---
